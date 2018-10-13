@@ -1,2 +1,2 @@
 # WorldCupBetApp 
-![](name-of-giphy.gif)
+![](world cup bet.gif)
